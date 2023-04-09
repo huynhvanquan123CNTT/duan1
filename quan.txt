@@ -1,4 +1,3 @@
-dsd
-huynhvan quándfdfs
-mmm
-DHTH18ATT
+.gitignore : ẩn file, folder
+merge in to : nhánh truyền vào
+checkout : ...
